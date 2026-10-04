@@ -1,0 +1,32 @@
+# Build output
+build/
+dist/
+*.apk
+
+# Private signing material
+signing/
+*.keystore
+*.jks
+*.p12
+*.pem
+
+# Original / derived DeadShot game data
+profiles/deadshot/inputs/
+*.jam
+*.sp
+game.jar
+game.dex
+deadshot_*.mid
+deadshot_*.mld
+DeadShot_Data_for_DeadShot_Bridge_*.zip
+
+# Local reports / captures
+*.mp4
+*.log
+phone-evidence/
+
+# Python / OS junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
