@@ -1,5 +1,7 @@
 # DeadShot Bridge
 
+![DeadShot Bridge — Android DoJa bridge for Devil May Cry: DeadShot](docs/deadshot-bridge-preview.jpg)
+
 DeadShot Bridge is an independent Android compatibility bridge for running a user's own compatible copy of **Devil May Cry: DeadShot** on modern Android hardware.
 
 **Current release:** v0.1.3  
@@ -7,11 +9,17 @@ DeadShot Bridge is an independent Android compatibility bridge for running a use
 
 ## Status
 
-v0.1.3 is the first public-safe release of the bridge.
+**Pre-release / polished beta.**
 
-The gameplay/control baseline was finalized in v0.1.2. v0.1.3 keeps that renderer, audio path, native input behavior, scratchpad/save behavior, full phone keypad, and DeadShot-specific custom control deck, while moving the original game data out of the APK and into a user-built local payload.
+v0.1.3 is the first public-safe release of DeadShot Bridge.
 
-The v0.1.3 release path was validated on a **Samsung Galaxy S25 Ultra running Android 16**. The owner confirmed the release-candidate flow successfully imported the payload, booted DeadShot, and ran correctly on-device. The final v0.1.3 build changes release metadata/status text only from that tested RC; the import/gameplay logic is unchanged.
+The import → boot → gameplay path, rendering, audio, pause/resume, persistent save behavior, full phone keypad, and DeadShot-specific custom controls have been tested on a **Samsung Galaxy S25 Ultra running Android 16** and are working in the portions tested.
+
+A complete start-to-finish playthrough has not yet been completed. Later-game compatibility issues may still exist, which is why v0.1.3 is currently published as a pre-release.
+
+The gameplay/control baseline was finalized in v0.1.2. v0.1.3 keeps that renderer, audio path, native input behavior, scratchpad/save behavior, full phone keypad, and DeadShot-specific custom control deck while moving the original game data out of the APK and into a user-built local payload.
+
+The v0.1.3 release-candidate import flow was successfully tested on-device. The final v0.1.3 build changes release metadata/status rather than the tested import/gameplay implementation.
 
 ## Quick start
 
