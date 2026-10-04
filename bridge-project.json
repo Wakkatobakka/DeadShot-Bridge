@@ -1,0 +1,14 @@
+{
+  "name": "DeadShot Bridge",
+  "package": "com.wakka.omnibridge.deadshot",
+  "version": "0.1.3",
+  "apk_name": "DeadShot_Bridge_v0.1.3.apk",
+  "source_roots": [
+    "shared/src",
+    "profiles/deadshot/src",
+    "runtime/deadshot/src",
+    "app/src"
+  ],
+  "signing_alias": "wakkan-omni-deadshot",
+  "signing_dn": "CN=DeadShot Omni Bridge,O=WAKKA,C=US"
+}

@@ -1,0 +1,15 @@
+DeadShot Bridge - Third-Party Notices
+=====================================
+
+Devil May Cry: DeadShot, Devil May Cry, Capcom, and related names, game code,
+graphics, music, and other original game material are the property of their
+respective rights holders. None of the original DeadShot JAR/JAM/SP files,
+converted game audio payload, or original game classes are included in this
+public repository or public bridge APK.
+
+NTT DOCOMO / DoJa names and API identifiers are referenced for compatibility.
+DeadShot Bridge is an independent compatibility and preservation project and is
+not affiliated with or endorsed by Capcom or NTT DOCOMO.
+
+The project includes independently written Android compatibility code and local
+conversion/build tooling. No repository-wide license has been selected yet.
