@@ -51,6 +51,18 @@ The `.jam` file is not required by the current payload builder.
 
 The builder verifies the original JAR/SP before doing any conversion. It then converts the three original game classes to Android DEX and extracts/converts the four DeadShot MLD audio resources into the verified MIDI files used by the bridge.
 
+### Getting a compatible DeadShot copy
+
+DeadShot Bridge does not include the original game files.
+
+A compatible copy can be obtained through the preservation resources at **Keitai Archive / Keitai World Launcher**:
+
+[Keitai Archive](https://keitaiarchive.org/)
+
+[Download Keitai World Launcher](https://keitaiarchive.org/downloads.html)
+
+Once DeadShot is downloaded through Keitai World, provide its `.jar` and `.sp` files to the included DeadShot Bridge Payload Builder.
+
 ## Controls
 
 DeadShot has multiple native control types. The custom deck follows the game's own current `key_con` mode rather than imposing a generic mapping.
