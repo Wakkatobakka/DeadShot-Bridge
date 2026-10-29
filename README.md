@@ -5,6 +5,20 @@
 
 Play the preserved **Devil May Cry: DeadShot** mobile game on modern Android with original gameplay, audio, and touchscreen controls.
 
+## Play with Omni Player
+
+For a streamlined way to play **Devil May Cry: DeadShot**, I recommend **Omni Player**.
+
+Omni includes this game's compatibility bridge and can import the complete compatible game archive directly, without the standalone Windows Payload Builder. Keep the original game files together as described in the guide below.
+
+**[Download Omni Player](https://github.com/Wakkatobakka/Omni-Player/releases) · [Game files and setup guide](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md#deadshot)**
+
+Requires **Android 11+ / ARM64**. Original game files are not included.
+
+To use the dedicated standalone DeadShot Bridge app, follow the instructions below.
+
+---
+
 ## Quick Start
 
 1. Open the [v0.1.3 Release](https://github.com/Wakkatobakka/DeadShot-Bridge/releases/tag/v0.1.3).
